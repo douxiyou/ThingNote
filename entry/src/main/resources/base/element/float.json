@@ -1,0 +1,40 @@
+{
+  "float": [
+    {
+      "name": "font_xs",
+      "value": "12vp"
+    },
+    {
+      "name": "font_sm",
+      "value": "14vp"
+    },
+    {
+      "name": "font_md",
+      "value": "18vp"
+    },
+    {
+      "name": "font_lg",
+      "value": "20vp"
+    },
+    {
+      "name": "margin_sm",
+      "value": "8vp"
+    },
+    {
+      "name": "margin_md",
+      "value": "16vp"
+    },
+    {
+      "name": "radius_sm",
+      "value": "12vp"
+    },
+    {
+      "name": "radius_md",
+      "value": "20vp"
+    },
+    {
+      "name": "radius_circle",
+      "value": "50vp"
+    }
+  ]
+}

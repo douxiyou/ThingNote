@@ -1,0 +1,26 @@
+{
+  "string": [
+    { "name": "app_name", "value": "物小记" },
+    { "name": "search_hint", "value": "搜索物品、位置或标签..." },
+    { "name": "space_title", "value": "空间" },
+    { "name": "add", "value": "添加" },
+    { "name": "camera_tip", "value": "拍照识别物品" },
+    { "name": "overview_title", "value": "智能概览" },
+    { "name": "zone_title", "value": "家庭分区" },
+    { "name": "category_title", "value": "物品分类" },
+    { "name": "total_count", "value": "总计: %d 件" },
+    { "name": "view_detail", "value": "查看详情" },
+    {
+      "name": "module_desc",
+      "value": "啥?"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "又是啥"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "诶嘛"
+    }
+  ]
+}
